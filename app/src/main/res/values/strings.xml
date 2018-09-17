@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TextViewer</string>
+    <string name="openfile">파일 열기</string>
+    <string name="background">화면 변경</string>
+    <string name="textchange">글자 크기</string>
+    <string name="bookmark">북마크</string>
+    <string name="search">검색</string>
+    <string name="pagemove">페이지 이동</string>
+    <string name="allbookmark">모든 북마크</string>
+    <string name="nowbookmark">현재 파일</string>
+    <string name="addbookmark">북마크 추가</string>
+    <string name="esc">나가기</string>
+    <string name="add">추가</string>
+    <string name="cancel">취소</string>
+    <string name="content">내용: </string>
+    <string name="before">이전</string>
+    <string name="next">다음</string>
+    <string name="close">닫기</string>
+    <string name="first">초기 위치</string>
+    <string name="notfile">파일이 없습니다.</string>
+    <string name="Qs">메뉴-파일 열기로 파일을 열어주세요.</string>
+    <string name="mainMemory">메인 메모리</string>
+    <string name="SDCard">SD 카드</string>
+    <string name="Created">Created by KimKiMin</string>
+</resources>
